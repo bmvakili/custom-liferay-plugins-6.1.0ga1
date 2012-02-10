@@ -1,0 +1,11 @@
+<canvas>
+  <font name="helmet">
+    <face src="helmetb.ttf" style="bold"/>
+  </font>
+  <simplelayout axis="y" spacing="8"/>
+  <text fgcolor="#175DDE">
+    <font face="helmet" size="24">
+      <b>Where to Begin</b>
+    </font>
+  </text>
+</canvas>

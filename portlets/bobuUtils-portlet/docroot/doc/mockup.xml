@@ -1,0 +1,111 @@
+<mockup version="1.0" skin="sketch" measuredW="1112" measuredH="797" mockupW="1033" mockupH="797">
+  <controls>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Title" x="162" y="86" w="595" h="-1" measuredW="404" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Web%20Content%20Importer</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::StickyNote" x="777" y="93" w="335" h="110" measuredW="109" measuredH="123" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1%20-%20First%2C%20a%20Web%20Content%20Structure%20is%20selected%3B%20then%20the%20list%20of%20Structure%20Elements%20are%20shown%20in%20the%20pane%20below.</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="79" y="0" w="797" h="797" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="__group__" x="201" y="440" w="518" h="248" measuredW="518" measuredH="248" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="518" h="248" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="72"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="274" y="68" w="79" h="-1" measuredW="79" measuredH="27" zOrder="1" locked="false" isInGroup="72"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="274" y="48" w="41" h="20" measuredW="42" measuredH="21" zOrder="2" locked="false" isInGroup="72">
+          <controlProperties>
+            <text>*XPath*</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="376" y="47" w="127" h="20" measuredW="117" measuredH="21" zOrder="3" locked="false" isInGroup="72">
+          <controlProperties>
+            <text>*Import%20and%20link%20to%3F*</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::CheckBox" x="383" y="68" w="42" h="21" measuredW="42" measuredH="22" zOrder="4" locked="false" isInGroup="72">
+          <controlProperties>
+            <state>selected</state>
+            <text>No</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="13" y="47" w="98" h="20" measuredW="89" measuredH="21" zOrder="5" locked="false" isInGroup="72">
+          <controlProperties>
+            <text>*Element%20Name*</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="13" y="69" w="89" h="20" measuredW="89" measuredH="21" zOrder="6" locked="false" isInGroup="72">
+          <controlProperties>
+            <text>Product%20Name</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="13" y="13" w="-1" h="-1" measuredW="120" measuredH="24" zOrder="7" locked="false" isInGroup="72">
+          <controlProperties>
+            <size>16</size>
+            <text>*Basic%20Structure*</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="153" y="47" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="8" locked="false" isInGroup="72">
+          <controlProperties>
+            <text>*Dynamic%3F*</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::CheckBox" x="153" y="68" w="-1" h="-1" measuredW="42" measuredH="22" zOrder="9" locked="false" isInGroup="72">
+          <controlProperties>
+            <text>No</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::TextInput" x="274" y="110" w="79" h="-1" measuredW="79" measuredH="27" zOrder="10" locked="false" isInGroup="72"/>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::CheckBox" x="383" y="110" w="42" h="21" measuredW="42" measuredH="22" zOrder="11" locked="false" isInGroup="72">
+          <controlProperties>
+            <state>selected</state>
+            <text>No</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="13" y="111" w="89" h="20" measuredW="85" measuredH="21" zOrder="12" locked="false" isInGroup="72">
+          <controlProperties>
+            <text>Product%20Value</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::CheckBox" x="153" y="110" w="-1" h="-1" measuredW="42" measuredH="22" zOrder="13" locked="false" isInGroup="72">
+          <controlProperties>
+            <text>No</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="76" controlTypeID="__group__" x="177" y="346" w="542" h="70" measuredW="542" measuredH="70" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="24" y="0" w="518" h="70" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="76"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="252" y="21" w="-1" h="-1" measuredW="125" measuredH="27" zOrder="1" locked="false" isInGroup="76">
+          <controlProperties>
+            <text>Choose%20Structure</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CallOut" x="0" y="0" w="-1" h="-1" measuredW="37" measuredH="39" zOrder="2" locked="false" isInGroup="76">
+          <controlProperties>
+            <text>1</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="46" y="21" w="-1" h="-1" measuredW="181" measuredH="21" zOrder="3" locked="false" isInGroup="76">
+          <controlProperties>
+            <text>Select%20Web%20Content%20Structure</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::TextArea" x="201" y="190" w="514" h="140" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::TabBar" x="215" y="210" w="457" h="100" measuredW="213" measuredH="100" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Simple%2C%20Advanced</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

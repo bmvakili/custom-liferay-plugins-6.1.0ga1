@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: 14.3-b01 (Sun Microsystems Inc.)
+Built-By: svnbuild
+Specification-Vendor: laszlosystems.com
+Specification-Version: 4.9.0
+Implementation-Vendor: org.openlaszlo
+Implementation-Title: org.openlaszlo.server
+Implementation-Version: Production branches/4.9@17752 (17752) 2010-10-
+ 22T15:20:34Z
+

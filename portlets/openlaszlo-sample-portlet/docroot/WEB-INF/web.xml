@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+    <servlet>
+        <servlet-name>LPS</servlet-name>
+        <servlet-class>org.openlaszlo.servlets.LZServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LPS</servlet-name>
+        <url-pattern>*.lzx</url-pattern>
+    </servlet-mapping>
+	<!--
+   <servlet>
+        <servlet-name>LZViewer</servlet-name>
+        <servlet-class>org.openlaszlo.servlets.LZViewer</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>AuthenticationServlet</servlet-name>
+        <servlet-class>AuthenticationServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LPS</servlet-name>
+        <url-pattern>*.lzx</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>LPS</servlet-name>
+        <url-pattern>*.lzo</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>LZViewer</servlet-name>
+        <url-pattern>/LZViewer</url-pattern>
+    </servlet-mapping>
+	-->
+</web-app>
